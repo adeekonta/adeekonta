@@ -1,0 +1,45 @@
+h1
+{
+	color: blue;
+	font-family: monospace;
+	text-decoration: underline;
+	font-size: 40px 
+}
+
+h2
+{
+	color: blue;
+	text-align:center;
+	font-family: monospace;
+	text-decoration: overline; 
+	font-size: 30px
+
+}
+
+p
+{ 
+   color: brown;
+   font-size: 40px
+s
+}
+
+h3
+{ color: blue;
+	font-family: monospace;
+	text-align: center;
+	text-decoration: overline;
+	font-size: 40px
+
+}
+h4
+{ color: blue;
+	font-family:monospace;
+	text-decoration: underline;
+	font-size: 40px
+}
+
+div
+{ background: rgba(0, 128, 0, 0.3);    
+
+ }
+
