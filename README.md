@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**adeekonta/adeekonta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there my name is Adaeze Okonta
 
 Here are some ideas to get you started:
 
